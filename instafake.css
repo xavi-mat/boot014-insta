@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 /* ////////////////////////////////////////////////////////////////////////// */
@@ -50,12 +50,6 @@
     margin-bottom: 12px;
 }
 
-.apps-box {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 .login-form {
     margin-top: 24px;
     margin-bottom: 10px;
@@ -71,7 +65,7 @@
 
 .log-in {
     margin: 8px 40px;
-    background-color: rgba(0,149,246,.3);
+    background-color: rgba(0, 149, 246, .3);
     border: 0;
     padding: 5px 9px;
     border-radius: 4px;
@@ -82,7 +76,7 @@
 
 .hr-or {
     border: none;
-    border-top: 1px solid rgba(219,219,219,1);
+    border-top: 1px solid rgba(219, 219, 219, 1);
     margin: 18px 40px 18px;
     text-align: center;
 }
@@ -95,7 +89,75 @@
     background: white;
     font-size: 13px;
     font-weight: 600;
+    color: rgba(142, 142, 142, 1);
 }
+
+.login-fb {
+    margin: 0 40px 8px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.login-fb-icon {
+    height: 16px;
+    width: 16px;
+    margin-right: 8px;
+    display: inline-block;
+    /* top: 8px; */
+    background-image: url(/assets/imgs/icon-fb.png);
+}
+
+.login-fb-text {
+    color: #385185;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.forgot {
+    color: rgba(var(--fe0, 0, 55, 107), 1);
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 12px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.signup-text {
+    margin: 15px;
+    color: rgba(38, 38, 38, 1);
+    font-size: 14px;
+}
+
+.signup-link {
+    font-weight: 600;
+    color: rgba(0, 149, 246, 1);
+    text-decoration: none;
+}
+
+.apps-box {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+
+.apps-box-text {
+    margin: 10px 20px;
+    color: rgba(var(--i1d, 38, 38, 38), 1);
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+}
+
+.apps-buttons {
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
 
 /* ////////////////////////////////////////////////////////////////////////// */
 /* Pics carrousel */
@@ -183,12 +245,12 @@
     color: #8e8e8e;
     font-weight: 300;
     font-size: 16px;
-    background: rgba(250,250,250,1);
-    border: 1px solid rgba(219,219,219,1);
+    background: rgba(250, 250, 250, 1);
+    border: 1px solid rgba(219, 219, 219, 1);
 }
 
 .input::placeholder {
-    color: rgba(38,38,38,1);
+    color: rgba(38, 38, 38, 1);
     font-size: 12px;
     text-overflow: ellipsis;
 }
