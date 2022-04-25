@@ -21,10 +21,10 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
     [x] Content
     [x] Details
 
-[ ] Cookies consent box
-    [ ] Cookies box
-    [ ] Cookies text
-    [ ] Cookies text styles
+[x] Cookies consent box
+    [x] Cookies box
+    [x] Cookies text
+    [x] Cookies text styles
 
 [ ] Adjust font sizes
 [ ] Reposition everything on main
