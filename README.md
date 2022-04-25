@@ -26,6 +26,7 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
 
 [ ] Responsive
 
+[ ] Adapt fake text
 [ ] Document in README.md
 [ ] All done!
 

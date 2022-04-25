@@ -168,6 +168,23 @@
     text-decoration: none;
 }
 
+.footer {
+    padding: 24px 20px 52px 20px;
+    background-color: rgba(250, 250, 250, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer-bottom {
+    margin-top: 12px;
+}
 
 /* ////////////////////////////////////////////////////////////////////////// */
 /* Pics carrousel */
@@ -263,4 +280,11 @@
     color: rgba(38, 38, 38, 1);
     font-size: 12px;
     text-overflow: ellipsis;
+}
+.footer-text {
+    margin: 0 8px 12px;
+    color: rgba(142,142,142,1);
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 12px;
 }
