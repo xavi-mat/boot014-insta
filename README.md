@@ -14,11 +14,13 @@ It consist on two html pages and one css file.
 ## index.html
 
 ### Cookies consent
+![cookies consent](/doc/doc-index-1.png)
 
 ### Login page
+![login page](/doc/doc-index-2.png)
 
 ## home.html
-
+![home.html](/doc/doc-index-3.png)
 
 ## TODO
  * [x] Containers structure
