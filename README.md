@@ -9,36 +9,36 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
 This fake Instagram landing page has been made as an exercise for
 [The Bridge Digital Talent Accelerator](https://thebridge.tech).
 
+
+
 ## TODO
-[x] Containers structure
-[x] Left carrousel
-[x] Right boxes
-    [x] Insta logo
-    [x] Form inputs
-    [x] Form button
-    [x] FB button
-    [x] Forgot password
-    [x] Signup
-    [x] App buttons
+ * [x] Containers structure
+ * [x] Left carrousel
+ * [x] Right boxes
+     * [x] Insta logo
+     * [x] Form inputs
+     * [x] Form button
+     * [x] FB button
+     * [x] Forgot password
+     * [x] Signup
+     * [x] App buttons
 
-[x] Footer
-    [x] Margin, padding, display
-    [x] Content
-    [x] Details
+ * [x] Footer
+     * [x] Margin, padding, display
+     * [x] Content
+     * [x] Details
 
-[x] Cookies consent box
-    [x] Cookies box
-    [x] Cookies text
-    [x] Cookies text styles
+ * [x] Cookies consent box
+     * [x] Cookies box
+     * [x] Cookies text
+     * [x] Cookies text styles
 
-[x] Home
-    [x] Structure
-    [x] Content
-    [x] Style
+ * [x] Home
+     * [x] Structure
+     * [x] Content
+     * [x] Style
 
-[x] Responsive
+ * [x] Responsive
 
-[ ] Document in README.md
-[ ] All done!
-
-## DONE
+ * [ ] Document in README.md
+ * [ ] All done!
