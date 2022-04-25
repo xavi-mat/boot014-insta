@@ -16,10 +16,10 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
     [x] Signup
     [x] App buttons
 
-[ ] Footer
+[x] Footer
     [x] Margin, padding, display
     [x] Content
-    [ ] Details
+    [x] Details
 
 [ ] Adjust font sizes
 [ ] Reposition everything on main
