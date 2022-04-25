@@ -36,12 +36,8 @@ This fake Instagram landing page has been made as an exercise for
     [x] Content
     [x] Style
 
-[ ] Adjust font sizes
-[ ] Reposition everything on main
-
 [x] Responsive
 
-[ ] Adapt fake text
 [ ] Document in README.md
 [ ] All done!
 
