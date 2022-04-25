@@ -14,9 +14,14 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
     [x] FB button
     [x] Forgot password
     [x] Signup
-    [ ] App buttons
+    [x] App buttons
 
 [ ] Footer
+    [ ] Margin, padding, display
+    [ ] Content
+    [ ] Details
+
+[ ] Reposition everything on main
 
 [ ] Responsive
 
