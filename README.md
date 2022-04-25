@@ -26,6 +26,11 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
     [x] Cookies text
     [x] Cookies text styles
 
+[x] Home
+    [x] Structure
+    [x] Content
+    [x] Style
+
 [ ] Adjust font sizes
 [ ] Reposition everything on main
 
