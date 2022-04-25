@@ -624,7 +624,7 @@
 /* Responsive */
 
 @media screen and (max-width: 875px) {
-    .carrousel {
+    .carrousel, .nav-search {
         display: none;
     }
 }
