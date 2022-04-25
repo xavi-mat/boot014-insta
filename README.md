@@ -71,5 +71,5 @@ example of uploaded pic.
 
  * [x] Responsive
 
- * [ ] Document in README.md
- * [ ] All done!
+ * [x] Document in README.md
+ * [x] All done!
