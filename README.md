@@ -7,7 +7,7 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
 ## TODO
 [x] Containers structure
 [x] Left carrousel
-[ ] Right boxes
+[x] Right boxes
     [x] Insta logo
     [x] Form inputs
     [x] Form button
@@ -20,6 +20,11 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
     [x] Margin, padding, display
     [x] Content
     [x] Details
+
+[ ] Cookies consent box
+    [ ] Cookies box
+    [ ] Cookies text
+    [ ] Cookies text styles
 
 [ ] Adjust font sizes
 [ ] Reposition everything on main
