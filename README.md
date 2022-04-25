@@ -4,6 +4,11 @@ Create a copy of the instagram login page.
 
 https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
 
+## Presentation
+
+This fake Instagram landing page has been made as an exercise for
+[The Bridge Digital Talent Accelerator](https://thebridge.tech).
+
 ## TODO
 [x] Containers structure
 [x] Left carrousel
@@ -34,7 +39,7 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
 [ ] Adjust font sizes
 [ ] Reposition everything on main
 
-[ ] Responsive
+[x] Responsive
 
 [ ] Adapt fake text
 [ ] Document in README.md
