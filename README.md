@@ -9,6 +9,15 @@ https://classroom.google.com/u/0/c/NDgwNDYwMTI2OTAz/a/NTAwMzYyMzEzNTk0/details
 This fake Instagram landing page has been made as an exercise for
 [The Bridge Digital Talent Accelerator](https://thebridge.tech).
 
+It consist on two html pages and one css file.
+
+## index.html
+
+### Cookies consent
+
+### Login page
+
+## home.html
 
 
 ## TODO
